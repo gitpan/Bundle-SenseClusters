@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Bundle-SenseClusters.t
+lib/Bundle/SenseClusters.pm
+META.yml                                 Module meta-data (added by MakeMaker)
